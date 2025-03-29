@@ -1,5 +1,7 @@
-# Ex-01-Linux-Commands
+# Ex-2A-Linux-Commands
 
+Name : Vishwaraj G.
+Reg No : 212223220125
 
 ## Aim:
 
